@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "Features"
-permalink: /features/
----
+layout: pina
+titulo: "Detalles del evento"
+enlace permanente: /detalles del evento/
+--
 
 Write your features here.
 ##  Detalles del Evento
