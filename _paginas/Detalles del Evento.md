@@ -2,7 +2,7 @@
 layout: pagina
 titulo "Detalles del evento"
 enlace permam: /Detalles del Evento/
---
+---
 
 Write your features here.
 ##  Detalles del Evento
