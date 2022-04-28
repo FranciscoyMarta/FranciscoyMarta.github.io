@@ -1,7 +1,7 @@
 ---
-layout: pina
-titulo: "Detalles del evento"
-enlace permanente: /detalles del evento/
+layout: pagina
+titulo "Detalles del evento"
+enlace permam: /Detalles del Evento/
 --
 
 Write your features here.
